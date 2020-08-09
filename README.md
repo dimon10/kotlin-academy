@@ -1,0 +1,1 @@
+Projects from Kotlin course by JetBrains at https://hyperskill.org/curriculum
